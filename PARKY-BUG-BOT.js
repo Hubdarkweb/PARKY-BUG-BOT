@@ -5,7 +5,7 @@
 //Telegram: https://t.me/+pW2IiAVrUeM0YzQ8
 //GitHub: @Hubdarkweb
 //WhatsApp: +254112386921
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-parker-tech
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@cyberpunk.joker
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
