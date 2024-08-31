@@ -1,11 +1,11 @@
-//base by Jean Parker 
+//base by 🗽 TOpPLUG🗽🥷🕷️📱🕷️☣️🏴‍☠️🕸️
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Jean-parker-tech
-//Instagram: its_jeanparker
-//Telegram: t.me/Jeanparker100
-//GitHub: @Jeanparker100
-//WhatsApp: +22898133388
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-parker-tech
+//YouTube: @cyberpunk.joker
+//Instagram: lenin.l.k
+//Telegram: https://t.me/Hub7s
+//GitHub: @Hubdarkweb
+//WhatsApp: 0112386921
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@cyberpunk.joker
 
 require('./settings')
 const pino = require('pino')
@@ -32,7 +32,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "22898133388"
+let phoneNumber = "254112386921"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -176,11 +176,11 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Jean-parker-tech`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: Jeanparker100`))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @its_jeanparker `))
-            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 22898133388`))
-            console.log(chalk.magenta(`${themeemoji} CREDIT: 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛\n`))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: cyberpunk.joker`))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: Hubdarkweb`))
+            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @lenin.l.k `))
+            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 0112386921`))
+            console.log(chalk.magenta(`${themeemoji} CREDIT: 🗽🥷TOpPLUG🗽PIRATES🕷️🏴‍☠️🥷☣️\n`))
         }
         if (
             connection === "close" &&
