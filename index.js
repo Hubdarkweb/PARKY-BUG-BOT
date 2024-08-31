@@ -1,11 +1,11 @@
-//base by Jean Parker 
+//base by 🗽TOpPLUG🥷☣️🕷️📱🕷️🏴‍☠️🗽
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Jean-parker-tech
-//Instagram: its_jeanparker
-//Telegram: t.me/Jeanparker100
-//GitHub: @Jeanparker100
-//WhatsApp: +22898133388
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-parker-tech
+//YouTube: @cyberpunk.joker
+//Instagram: lenin.l.k
+//Telegram: https://t.me/Hub7s
+//GitHub: @Hubdarkweb
+//WhatsApp: 0112386921
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@cyberpunk.joker
 
 
 const {
