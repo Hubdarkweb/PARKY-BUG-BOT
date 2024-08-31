@@ -1,10 +1,10 @@
-//base by Jean Parker 
+//base by 🗽TOpPLUG🗽🥷☣️🏴‍☠️🕷️📱🕷️🕸️💀🗽🥷🏴‍☠️
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Jean-parker-tech
-//Instagram: its_jeanparker
-//Telegram: t.me/Jeanparker100
-//GitHub: @Jeanparker100
-//WhatsApp: +22898133388
+//YouTube: @cyberpunk.joker
+//Instagram: lenin.l.k
+//Telegram: https://t.me/+pW2IiAVrUeM0YzQ8
+//GitHub: @Hubdarkweb
+//WhatsApp: +254112386921
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-parker-tech
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
@@ -64,25 +64,25 @@ const ApkXeon = JSON.parse(fs.readFileSync('./database/autoreply/apk.json'))
 
 //time
 const xtime = moment.tz('Africa/Togo').format('HH:mm:ss')
-        const xdate = moment.tz('Africa/Togo').format('DD/MM/YYYY')
-        const time2 = moment().tz('Africa/Togo').format('HH:mm:ss')  
+        const xdate = moment.tz('Africa/Kenya').format('DD/MM/YYYY')
+        const time2 = moment().tz('Africa/Kenya').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var xeonytimewisher = `𝐁𝐨𝐧𝐧𝐞 𝐧𝐮𝐢𝐭 `
+var xeonytimewisher = `🕷️📱🕸️🕷️🥷☣️🏴‍☠️ `
  }
  if(time2 < "19:00:00"){
-var xeonytimewisher = `𝐁𝐨𝐧𝐧𝐞 𝐧𝐮𝐢𝐭 `
+var xeonytimewisher = `🕷️📱🕸️🕷️🥷☣️🏴‍☠️ `
  }
  if(time2 < "18:00:00"){
-var xeonytimewisher = `𝐁𝐨𝐧𝐧𝐞 𝐧𝐮𝐢𝐭 `
+var xeonytimewisher = `🕷️📱🕸️🕷️🥷☣️🏴‍☠️ `
  }
  if(time2 < "15:00:00"){
-var xeonytimewisher = `𝐁𝐨𝐧𝐬𝐨𝐢𝐫 `
+var xeonytimewisher = `🕷️📱🕸️🕷️🥷☣️🏴‍☠️ `
  }
  if(time2 < "11:00:00"){
-var xeonytimewisher = `𝐁𝐨𝐧𝐣𝐨𝐮𝐫 `
+var xeonytimewisher = `🕷️📱🕸️🕷️🥷☣️🏴‍☠️ `
  }
  if(time2 < "05:00:00"){
-var xeonytimewisher = `𝐁𝐨𝐧𝐣𝐨𝐮𝐫 `
+var xeonytimewisher = `🕷️📱🕸️🥷☣️🏴‍☠️ `
  } 
 module.exports = XeonBotInc = async (XeonBotInc, m, msg, chatUpdate, store) => {
     try {
@@ -743,7 +743,7 @@ senddocu(buffer)
                 break
             case 'shutdown':
                 if (!isCreator) return replygcxeon(mess.owner)
-                replygcxeon(`*Goodbye 👋*`)
+                replygcxeon(`*Goodbye🗽🕷️📱🕷️🕸️🥷☣️🏴‍☠️🗽 👋*`)
                 await sleep(3000)
                 process.exit()
                 break
@@ -1096,7 +1096,7 @@ senddocu(buffer)
                 if (!m.isGroup) return replygcxeon(mess.group)
                 if (!isAdmins && !isGroupOwner && !isCreator) return replygcxeon(mess.admin)
                 if (!isBotAdmins) return replygcxeon(mess.botAdmin)
-                let teks = `*👨‍👩‍👧‍👦🩵 Tag All*
+                let teks = `*👨‍👩‍👧‍👦🩵🕷️📱🕷️🕸️🥷☣️🏴‍☠️🗽 Tag All*
  
                  👻¸🗨️ *Message : ${q ? q : ''}*\n\n`
                 for (let mem of participants) {
@@ -1229,7 +1229,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `YouTube Jean-parker-tech`,
+                            title: `YouTube cyberpunk.joker`,
                             body: `${latensi.toFixed(4)} Second`,
                             thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
                             sourceUrl: global.link,
@@ -1271,8 +1271,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `Yt Jean-parker-tech`,
-                            body: `Love from Jean Parker 🩵`,
+                            title: `Yt cyberpunk.joker`,
+                            body: `Love from TOpPLUG🗽🥷☣️🕸️🕷️📱🕷️📱🕷️🕷️☣️🏴‍☠️🩵`,
                             thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1287,11 +1287,11 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `🌐 *_Git:_* https://github.com/Jeanparker100/PARKY-BUG-BOT\n\n🪀 *_Group:_* https://chat.whatsapp.com/ElIaBnD2v8yKKpSa1wpbst\n\n🪀 *_Channel:_* https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45\n\n🩵 *_Dev:_* https://Wa.me//+22898133388`,
+                    text: `🌐 *_Git:_* https://github.com/Hubdarkweb/PARKY-BUG-BOT\n\n🪀 *_Group:_* https://t.me/Hub7s\n\n🪀 *_Channel:_* https://t.me/+pW2IiAVrUeM0YzQ8\n\n🩵 *_Dev:_* https://Wa.me//0112386921`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: `SCRIPT OF Parky-MD is on YouTube Jean-parker-tech 🩵`,
+                            title: `SCRIPT OF Parky-MD is on YouTube cyberpunk.joker🩵`,
                             body: `Love You bro 🩵`,
                             thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
                             sourceUrl: global.link,
@@ -2414,7 +2414,7 @@ break
 ┃ 🩵 sᴏᴜɴᴅ1 - sᴏᴜɴᴅ161
 ╰═════════════════⊷
 
-> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 ©`
+> TOpPLUG🗽🥷☣️🏴‍☠️ ©`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
